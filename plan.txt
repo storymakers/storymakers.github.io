@@ -1,209 +1,158 @@
 Digital Storymakers Foundation business plan
 
-The business plan that follows was submitted for the semifinals of the Carolina Challenge business plan competition. More information about the competition can be found at http://www.carolinachallenge.org]
+The business plan that follows was submitted for the semifinals of the Carolina Challenge business plan competition.
+
+More information about the competition can be found at http://www.carolinachallenge.org
 
 DIGITAL STORYMAKERS BUSINESS PLAN
 March 2011
 
 Executive Summary
+
 Introduction
-Digital Storymakers is a social archive site for sharing and preserving digital stories. We
-combine the interactive features of social network sites with the stability of a digital
-archive. Unlike common social network sites, we put our customers in charge of their
-own data.
-Our service allows customers to automatically collect and preserve their digital media,
-whether it lives on their hard drive or at other social network sites. We also provide an ecommerce
-platform for our customers to create digital stories with each other and share
-their creative products with others.
-60
+Digital Storymakers is a social archive site for sharing and preserving digital stories.
+
+We combine the interactive features of social network sites with the stability of a digital archive.
+
+Unlike common social network sites, we put our customers in charge of their own data.
+Our service allows customers to automatically collect and preserve their digital media, whether it lives on their hard drive or at other social network sites.
+
+We also provide an ecommerce platform for our customers to create digital stories with each other and share their creative products with others.
+
 Value Proposition
-The social media landscape of today is an ephemeral place where users waste their time
-and become increasingly alienated from the people they care about in their network.
-Users share less and less qualitatively rich data on their networks because of privacy
-fears. At the same, time users feel antagonistic towards online services that seek to
-monetize their personal information to better target advertising. Digital Storymakers
-instead provides customers with a meaningful social media experience – one that is
-designed for sharing and preserving the important digital stories of our lives. Rather than
-building a social media experience on fleeting status updates, we build our experience on
-the most important parts of our customers’ lives and provide them with a digital library
-that automates the organization and preservation of their files.
+The social media landscape of today is an ephemeral place where users waste their time and become increasingly alienated from the people they care about in their network.
+Users share less and less qualitatively rich data on their networks because of privacy fears.
+
+At the same, time users feel antagonistic towards online services that seek to monetize their personal information to better target advertising.
+
+Digital Storymakers instead provides customers with a meaningful social media experience – one that is designed for sharing and preserving the important digital stories of our lives.
+Rather than building a social media experience on fleeting status updates, we build our experience on the most important parts of our customers’ lives and provide them with a digital library that automates the organization and preservation of their files.
+
 Competitive Advantage
-Our content management system is built upon iRODS data grid technology, developed by
-the Data Intensive Cyber Environments (DICE) research group at the UNC-CH School of
-Information and Library Science (SILS) and Renaissance Computing Institute. We enjoy
-a significant competitive advantage through our relationships with SILS and DICE.
-We offer field placements, internships, and practicums to students at UNC-CH for
-academic credit, significantly decreasing our labor costs. Additionally, we maintain a
-strong relationship with the student body of UNC through the Carolina Digital Story Lab,
-a student group founded by Mike Nutt. Through this student group, Digital Storymakers
-61
-is able to recruit student volunteers who are eager to gain experience in the world of
+Our content management system is built upon iRODS data grid technology, developed by the Data Intensive Cyber Environments (DICE) research group at the UNC-CH School of Information and Library Science (SILS) and Renaissance Computing Institute.
+
+We enjoy a significant competitive advantage through our relationships with SILS and DICE.
+We offer field placements, internships, and practicums to students at UNC-CH for academic credit, significantly decreasing our labor costs.
+
+Additionally, we maintain a strong relationship with the student body of UNC through the Carolina Digital Story Lab, a student group founded by Mike Nutt.
+
+Through this student group, Digital Storymakers is able to recruit student volunteers who are eager to gain experience in the world of
 social networking.
+
 Industry Analysis
-Nearly half of online adults in the United States use a social network site (SNS), up from
-only eight percent in early 2005 (Lenhart, 2009). The number of people joining SNSs is
-also expected to continue rising. One of the fastest growing groups on SNSs is older
-adults who are eager to use social networks to help construct the stories of their lives
-(Stutzman, 2009).
+Nearly half of online adults in the United States use a social network site (SNS), up from only eight percent in early 2005 (Lenhart, 2009).
+
+The number of people joining SNSs is also expected to continue rising.
+
+One of the fastest growing groups on SNSs is older adults who are eager to use social networks to help construct the stories of their lives (Stutzman, 2009).
+
 Products and Services
 We offer a suite of three products and services:
-• Story Management System (SMS) – Our flagship product, SMS, is a content
-management system for the stories of your life. SMS allows you to upload digital
-media files to a personal digital library, share them with others, and preserve them
-for years to come.
-• Self-Publishing – Through an integrated partnership with the self-publishing site
-Lulu.com, we offer our customers a way to creatively publish and share their
-digital media files in a physical format, reinforcing the links between online and
-offline community.
-• Digital Media Consulting – We offer customers a wide range of expertise on the
-use of digital media, from using digital stories in presentations to website
-construction. Our consulting services are aimed at the typical consumer.
-62
+	• Story Management System (SMS) – Our flagship product, SMS, is a content management system for the stories of your life.
+	SMS allows you to upload digital media files to a personal digital library, share them with others, and preserve them for years to come.
+	• Self-Publishing – Through an integrated partnership with the self-publishing site Lulu.com, we offer our customers a way to creatively publish and share their digital media files in a physical format, reinforcing the links between online and offline community.
+	• Digital Media Consulting – We offer customers a wide range of expertise on the use of digital media, from using digital stories in presentations to website construction.
+	Our consulting services are aimed at the typical consumer.
+
+// team is out of date
 Team
-Mike Nutt is a Master’s of Science in Information Science candidate and founder of the
-Carolina Digital Story Lab, a student group at UNC-CH. His hyperlinked CV is available
-at http://SMS.net/cv.
-Sylvia Richardson is an Information Science student with an interest in web design and
-non-profits. She spent her undergraduate years running a small special collections library
-in California, and is currently working at Rex Hospital as a Webmaster Intern.
-Peter Zasowski is an Information Science student with a history background and
-interests in archives, digitization, and historical preservation. He is currently helping with
-collections inventory at the Orange County Historical Museum and working for the
-Carolina Digital Library and Archives.
+Mike Nutt is a Master’s of Science in Information Science candidate and founder of the Carolina Digital Story Lab, a student group at UNC-CH.
+His hyperlinked CV is available at www.linkedin.com/in/mikenutt/.
+Sylvia Richardson is an Information Science student with an interest in web design and non-profits.
+She spent her undergraduate years running a small special collections library in California, and is currently working at Rex Hospital as a Webmaster Intern.
+Peter Zasowski is an Information Science student with a history background and interests in archives, digitization, and historical preservation.
+He is currently helping with collections inventory at the Orange County Historical Museum and working for the Carolina Digital Library and Archives.
+
 Keys to Success
 • Flawless website functionality and clean, intuitive user interface
 • Better help pages and support system than any other CMS
 • An active and collaborative user base
 • Monetization from Day 1
 • Access to supportive and sympathetic leaders in the higher education sector
-63
+
 Key Insight
 When we don't control our own data, we aren't able to reap the full benefits of its use.
-Empowering people is a much more attractive business model than using personal data to
-sell advertising. We all generate stories all the time - can we make a sustainable way to
-monetize that?
+Empowering people is a much more attractive business model than using personal data to sell advertising.
+We all generate stories all the time - can we make a sustainable way to monetize that?
+
 Opportunity
 Value Proposition
-Digital Storymakers provides customers with a trustworthy social platform for sharing
-and preserving the digital stories of their lives.
-We have an unprecedented opportunity to find a sustainable, user-centered model in the
-social media market: one that simultaneously protects private data and makes sharing
-digital media meaningful and fun. As social networks become bloated and less personal,
-social media users receive less and less value from their social media experience, while
-companies seek to monetize private information to better target advertising. Storymakers
-provides a Story Management System (SMS) that allows its users to build history
-together and preserve their digital audio recordings, photographs, and videos for future
-generations.
-In Chapel Hill, we recently suffered the loss of the Chapel Hill Museum, indicating that
-we may not be able to depend on traditional institutions to preserve our history for us.
-The Museum failed because nobody was willing to support the overhead costs of
-64
-maintenance and operation. Digital Storymakers provides a digital museum for Orange
-County, constructed from the extraordinary stories of ordinary people, all through a fun,
-social interface.
-It is often said that history is written by the victors. We like to believe in the
-democratizing potential of the Internet, but here in Orange County, we still struggle to
-document the stories of marginalized populations of like the members of the Northside
-and Rogers-Eubanks neighborhoods. Our SMS will allow customers to construct their
-stories together through an intuitive interface, and ensure that their digital stories are
-preserved in the historical record.
-Storymakers has a unique competitive advantage in the field of digital preservation
-through a partnership with the DICE Center at UNC-CH, where an open source data grid
-technology called iRODS is being developed. iRODS is a piece of “middleware” that is
-the result of 13 years of research and development to provide digital preservation
-cyberinfrastructure to organizations like NASA and the National Archives. By the DICE
-Center’s estimate, iRODS is 5 years ahead of its commercial competitors. Our
-relationship with the DICE Center will allow for greatly reduced development costs by
-offering student iRODS researchers field experiences and internships.
+Digital Storymakers provides customers with a trustworthy social platform for sharing and preserving the digital stories of their lives.
+We have an unprecedented opportunity to find a sustainable, user-centered model in the social media market: one that simultaneously protects private data and makes sharing digital media meaningful and fun.
+As social networks become bloated and less personal, social media users receive less and less value from their social media experience, while companies seek to monetize private information to better target advertising.
+Storymakers provides a Story Management System (SMS) that allows its users to build history together and preserve their digital audio recordings, photographs, and videos for future generations.
+In Chapel Hill, we recently suffered the loss of the Chapel Hill Museum, indicating that we may not be able to depend on traditional institutions to preserve our history for us.
+The Museum failed because nobody was willing to support the overhead costs of maintenance and operation.
+Digital Storymakers provides a digital museum for Orange County, constructed from the extraordinary stories of ordinary people, all through a fun, social interface.
+It is often said that history is written by the victors.
+We like to believe in the democratizing potential of the Internet, but here in Orange County, we still struggle to document the stories of marginalized populations of like the members of the Northside and Rogers-Eubanks neighborhoods.
+Our SMS will allow customers to construct their stories together through an intuitive interface, and ensure that their digital stories are preserved in the historical record.
+Storymakers has a unique competitive advantage in the field of digital preservation through a partnership with the DICE Center at UNC-CH, where an open source data grid technology called iRODS is being developed
+
+iRODS is a piece of “middleware” that is the result of 13 years of research and development to provide digital preservation cyberinfrastructure to organizations like NASA and the National Archives. 
+By the DICE Center’s estimate, iRODS is 5 years ahead of its commercial competitors.
+Our relationship with the DICE Center will allow for greatly reduced development costs by offering student iRODS researchers field experiences and internships.
 Competitive Advantage
 Our firm has two significant competitive advantages:
-1. We have a close relationship with the Data Intensive Cyber Environments (DICE)
-65
-Center at UNC-CH. The DICE group is interested in social media applications of
-iRODS technology, has developers on staff that may be available to help Storymakers,
-and two grant specialists on staff as well. According to their website
-(http://dice.unc.edu/about) the DICE Center “provides expertise and software
-technologies in the areas of large-scale data management for collaborative research,
-digital archiving, and long-term data preservation.” The researchers at the DICE Center
-wrote and developed the core iRODS technology that underpins the Storymakers story
-management system (SMS). Mike has taken a class taught by two of the founders of the
-DICE Center, and Storymakers has secured a letter of support from DICE Center Director
-Reagan Moore.
-2. Storymakers will enjoy significant cost savings by employing student labor whenever
-possible. Especially during the cash-strapped startup phase, Storymakers intends to
-employ as many students as possible through paid and unpaid internships, field
-placements, and practicums. Such positions will be filled by students in the Schools of
-Journalism, Social Work, and Information and Library Science as well as the
-Departments of Computer Science and Communication Studies. Storymakers is well
-positioned to be the only place near the UNC-CH campus for using social media for
-service learning. Students provide us with low-cost labor, and we provide them with the
-invaluable experience of crafting a social network site.
-66
+1. We have a close relationship with the Data Intensive Cyber Environments (DICE) Center at UNC-CH.
+The DICE group is interested in social media applications of iRODS technology, has developers on staff that may be available to help Storymakers, and two grant specialists on staff as well. 
+According to their website (http://dice.unc.edu/about) the DICE Center “provides expertise and software technologies in the areas of large-scale data management for collaborative research, digital archiving, and long-term data preservation.” 
+The researchers at the DICE Center wrote and developed the core iRODS technology that underpins the Storymakers story
+management system (SMS).
+Mike has taken a class taught by two of the founders of the DICE Center, and Storymakers has secured a letter of support from DICE Center Director Reagan Moore.
+2. Storymakers will enjoy significant cost savings by employing student labor whenever possible.
+Especially during the cash-strapped startup phase, Storymakers intends to employ as many students as possible through paid and unpaid internships, field placements, and practicums.
+Such positions will be filled by students in the Schools of Journalism, Social Work, and Information and Library Science as well as the Departments of Computer Science and Communication Studies.
+Storymakers is well positioned to be the only place near the UNC-CH campus for using social media for service learning.
+Students provide us with low-cost labor, and we provide them with the invaluable experience of crafting a social network site.
+
 Products and services
+
 Technology
-Our primary software product, Story Management System (SMS), will be developed
-using an open source strategy. According to the Open Source Initiative, "Open source is a
-development method for software that harnesses the power of distributed peer review and
-transparency of process. The promise of open source is better quality, higher reliability,
-more flexibility, lower cost, and an end to predatory vendor lock-in" (Open Source
-Initiative, 2009). In Storymakers' case, open sourcing SMS is also a strategic marketing
-decision as it aligns us with a specific, established community whose values we share,
-and provides us with lower development costs by crowdsourcing software engineering.
+Our primary software product, Story Management System (SMS), will be developed using an open source strategy.
+According to the Open Source Initiative, "Open source is a development method for software that harnesses the power of distributed peer review and transparency of process.
+The promise of open source is better quality, higher reliability, more flexibility, lower cost, and an end to predatory vendor lock-in" (Open Source Initiative, 2009).
+In Storymakers' case, open sourcing SMS is also a strategic marketing decision as it aligns us with a specific, established community whose values we share, and provides us with lower development costs by crowdsourcing software engineering.
+
 Products
-In keeping with the Storymakers goal of bridging the online and offline worlds, we offer
-two flagship products in each realm.
-Story Management System (SMS)
-SMS is the primary interface through which users will build and share their digital
-libraries.
+In keeping with the Storymakers goal of bridging the online and offline worlds, we offer two flagship products in each realm.
+Story Management System (SMS) SMS is the primary interface through which users will build and share their digital libraries.
+
 Digital Story Consulting
-The Red Hat model for Apache server software provides the basis for this product
-offering. SMS will be an open-source product; the code will be freely available for others
-to download, use, and modify. However, Storymakers will possess valuable knowledge
-67
-about the product that others will be willing to pay for. Not only that, but Storymakers
-will offer individualized, full service story-based marketing consulting. We will council
-our clients on everything from the equipment and skills necessary to begin producing
-their own media to the best way to reach their customers through Storymakers SMS.
-Forrester research has found that media “Creator behavior” is plateauing (2010). Those
-who aren’t already generating social content will need the services of a firm like ours to
-provide simple, fun, inexpensive, and effective solutions to getting their stories into the
-social media landscape.
+The Red Hat model for Apache server software provides the basis for this product offering.
+SMS will be an open-source product; the code will be freely available for others to download, use, and modify.
+However, Storymakers will possess valuable knowledge about the product that others will be willing to pay for.
+Not only that, but Storymakers will offer individualized, full service story-based marketing consulting.
+We will council our clients on everything from the equipment and skills necessary to begin producing their own media to the best way to reach their customers through Storymakers SMS.
+Forrester research has found that media “Creator behavior” is plateauing (2010).
+Those who aren’t already generating social content will need the services of a firm like ours to provide simple, fun, inexpensive, and effective solutions to getting their stories into the social media landscape.
+
 Industry and Market Analysis
+
 Market Segmentation
-The ability to produce information is within us all. We all possess our experiences and
-therefore a unique context for identifying relationships between entities, events, people,
-etc. The target customer in this segment is primarily adults; membership in Digital
-Storymakers will require informed consent about the use of personal information.
-Although we will not regulate the content of our members’ stories, we will not cater to
-their more prurient interests. Our customers will have a wide range of backgrounds, and
-many of them will be poorer than the average demographic for social network site users
-(Smith, Schlozman, Verba, & Brady, 2009), and may even be first-time SNS users.
-Though our market extends internationally, we will focus on trying to serve those in our
-immediate geographic area.
-68
+The ability to produce information is within us all.
+We all possess our experiences and therefore a unique context for identifying relationships between entities, events, people, etc.
+The target customer in this segment is primarily adults; membership in Digital Storymakers will require informed consent about the use of personal information.
+Although we will not regulate the content of our members’ stories, we will not cater to their more prurient interests.
+Our customers will have a wide range of backgrounds, and many of them will be poorer than the average demographic for social network site users (Smith, Schlozman, Verba, & Brady, 2009), and may even be first-time SNS users.
+Though our market extends internationally, we will focus on trying to serve those in our immediate geographic area.
+
 Target Market Segment Strategy
-Our segment strategy is dictated by our target market: We are combining services in a
-way that few other competitors are, thus providing services to many who may have been
-dissuaded from technological use in the past, or unable to procure the means necessary to
-create content on the web. We offer this market segment a comfortable and supportive
-environment to grow their technological skillsets, earn revenue, and enjoy connecting
-with others online.
+Our segment strategy is dictated by our target market: We are combining services in a way that few other competitors are, thus providing services to many who may have been dissuaded from technological use in the past, or unable to procure the means necessary to create content on the web.
+We offer this market segment a comfortable and supportive environment to grow their technological skillsets, earn revenue, and enjoy connecting with others online.
+
 Industry Analysis
 In short, the software publishing industry can be characterized by the word "growth".
-From 2006-2016, employment in the software publishing industry is projected to grow 32
-percent (Bureau of Labor Statistics, 2008). The market for "apps" in particular is
-experiencing explosive growth: analysts figure that it will be worth $4 billion by 2012
-(MacMillan, Burrows, & Ante, 2009). Another high-growth area in the software industry
-is that of cloud computing software-as-service. This is advantageous for Storymakers in
-that it allows us to both 1) access enterprise-level cloud services in a manner that scales
-appropriately for our company size, and 2) offer our own suite of cloud services,
-especially those related to member media storage. More generally, the rapid growth of
-the software industry presents Storymakers with several risks and benefits:
+From 2006-2016, employment in the software publishing industry is projected to grow 32 percent (Bureau of Labor Statistics, 2008).
+The market for "apps" in particular is experiencing explosive growth: analysts figure that it will be worth $4 billion by 2012 (MacMillan, Burrows, & Ante, 2009).
+Another high-growth area in the software industry is that of cloud computing software-as-service.
+This is advantageous for Storymakers in that it allows us to both 1) access enterprise-level cloud services in a manner that scales appropriately for our company size, and 2) offer our own suite of cloud services, especially those related to member media storage.
+More generally, the rapid growth of the software industry presents Storymakers with several risks and benefits:
 Risks
 • Increased competition
 • Difficult to stay abreast of developments
 • Computer system and network security
-69
+
 Benefits
 • Large pool of highly-skilled employable talent from which to draw
 • High demand for “business information”
@@ -211,269 +160,197 @@ Benefits
 • Falling prices of computer hardware and storage
 • Increased demand for technology-related consulting services
 • Opportunities in cloud computing software-as-service
+
 Competitive Analysis
-70
+
 MediaWiki
 http://www.mediawiki.org/wiki/MediaWiki
 Currently, Wikipedia.org is the best-known implementation of a web-based wiki.
-Additionally, the CMS that powers Wikipedia, MediaWiki, is perhaps the most popular
-wiki-based CMS. This presents a challenge to change web users’ expectations about what
-a wiki can be, as many will equate “wiki” with “Wikipedia”. Several opportunities exist
-for us to offer products that surpass MediaWiki in functionality and ease of use. The
-MediaWiki CMS, like most CMSs, requires significant time to learn and master, but still
-71
-forces users to work within a relatively strict framework. SMS, on the other hand, will
-have an intuitive visual icon-based interface and allow users to focus on creating and
-sharing engaging multimedia content.
+Additionally, the CMS that powers Wikipedia, MediaWiki, is perhaps the most popular wiki-based CMS.
+This presents a challenge to change web users’ expectations about what a wiki can be, as many will equate “wiki” with “Wikipedia”.
+Several opportunities exist for us to offer products that surpass MediaWiki in functionality and ease of use.
+The MediaWiki CMS, like most CMSs, requires significant time to learn and master, but still forces users to work within a relatively strict framework.
+SMS, on the other hand, will have an intuitive visual icon-based interface and allow users to focus on creating and sharing engaging multimedia content.
+
 CONTENTdm
 http://www.contentdm.org
-CONTENTdm is popular digital collection management software. It is typically used by
-archives, academic institutions, museums, libraries and other similar organizations. While
-it allows for flexible and powerful storage and retrieval of multimedia documents,
-integrates nicely with the web, and scales well, it is priced so that only those with large
-amounts of cash can afford it. SMS, by contrast, will be free and open source software.
-Storymakers will generate revenue not from the software itself, but from the value-added
-services and products associated with our co-op.
+CONTENTdm is popular digital collection management software.
+It is typically used by archives, academic institutions, museums, libraries and other similar organizations.
+While it allows for flexible and powerful storage and retrieval of multimedia documents, integrates nicely with the web, and scales well, it is priced so that only those with large amounts of cash can afford it.
+SMS, by contrast, will be free and open source software.
+Storymakers will generate revenue not from the software itself, but from the value-added services and products associated with our co-op.
+
 Laughing Squid
 http://laughingsquid.us
-The web hosting industry is packed with competitors, so any one web host does not
-represent a significant competitive consideration. However, Laughing Squid is a wellknown
-example of the kind of innovative, personalized, and socially engaged web
-hosting service that Storymakers will strive to offer, with a similar hybrid business
-model. Founder Scott Beale explains, “The revenue generated from the web hosting side
-of Laughing Squid helps to fund the art, culture & technology of Laughing Squid”
-(Beale, 2006). While Laughing Squid is an established leader in the area of mixed-mode
-72
-social entrepreneurship, they are also quite open about their methods. Laughing Squid
-will serve as an excellent model on which to base our own hosting services.
+The web hosting industry is packed with competitors, so any one web host does not represent a significant competitive consideration.
+However, Laughing Squid is a wellknown example of the kind of innovative, personalized, and socially engaged web hosting service that Storymakers will strive to offer, with a similar hybrid business model.
+Founder Scott Beale explains, “The revenue generated from the web hosting side of Laughing Squid helps to fund the art, culture & technology of Laughing Squid” (Beale, 2006).
+While Laughing Squid is an established leader in the area of mixed-mode social entrepreneurship, they are also quite open about their methods.
+Laughing Squid will serve as an excellent model on which to base our own hosting services.
+
 Center for Digital Storytelling
 http://www.storycenter.org
-The founder of this nonprofit, Joe Lambert, has done an enormous amount of work to
-popularize the idea that, "Everybody has a story to tell," and that everybody can tell that
-story using easily learned media production tools (Lambert, 2002). Additionally, CDS
-has shown that a community technology center based around storytelling can thrive and
-generate many positive social outcomes. However, CDS has focused on one particular
-form of multimedia storytelling to the exclusion of all others: the 3-5 minute video,
-narrated by the user, illustrated with photos and other digital artifacts, and set to music.
-While this is certainly a powerful format, the focus is on storytelling. That is, for CDS,
-the digital story is a fixed, linear artifact. Our company focuses on the act of storymaking.
-Stories on the web can be told differently, and we intend to leverage all the capabilities of
-the Internet to make stories. We make stories for the 21st century: they can be distributed,
-collaborative, synchronous or asynchronous, and interactive.
+The founder of this nonprofit, Joe Lambert, has done an enormous amount of work to popularize the idea that, "Everybody has a story to tell," and that everybody can tell that story using easily learned media production tools (Lambert, 2002).
+Additionally, CDS has shown that a community technology center based around storytelling can thrive and generate many positive social outcomes.
+However, CDS has focused on one particular form of multimedia storytelling to the exclusion of all others: the 3-5 minute video, narrated by the user, illustrated with photos and other digital artifacts, and set to music.
+While this is certainly a powerful format, the focus is on storytelling.
+That is, for CDS, the digital story is a fixed, linear artifact.
+Our company focuses on the act of storymaking.
+Stories on the web can be told differently, and we intend to leverage all the capabilities of the Internet to make stories.
+We make stories for the 21st century: they can be distributed, collaborative, synchronous or asynchronous, and interactive.
+
 Self-Publishing
+
 Lulu
-Lulu provides a channel for free publication to authors, while allowing them to retain
-rights and 80% of the profits from any sales. According to the company, they add
-approximately 20,000 new titles to their collection each month. Lulu’s product catalog
-includes books (hardcover, softcover, electronic, and photo), calendars, CDs, and DVDs.
-73
+Lulu provides a channel for free publication to authors, while allowing them to retain rights and 80% of the profits from any sales.
+According to the company, they add approximately 20,000 new titles to their collection each month.
+Lulu’s product catalog includes books (hardcover, softcover, electronic, and photo), calendars, CDs, and DVDs.
 Lulu allows free uploading, but charges for any physical product orders.
+
 Blurb
-Blurb focuses on photo books, created using either the company’s online tool or
-downloadable free software. In August 2010, Blurb was ranked as the fastest-growing
-media company on Inc. 500’s list of private companies. With Blurb, authors can create
-and upload content to the Blurb online bookstore for free, but must pay for any physical
-orders. Through the company’s “Set Your Price” program, creators have the option to
-mark up their products as much as they wish. Blurb pays the authors each month that
-their profits reach a certain level, retaining only a flat processing fee (USD$5) for each
-monthly payment. Like Lulu, Blurb allows users to upload content to the online catalog
-for free, but there is a cost for each product that is ordered.
+Blurb focuses on photo books, created using either the company’s online tool or downloadable free software.
+In August 2010, Blurb was ranked as the fastest-growing media company on Inc. 500’s list of private companies.
+With Blurb, authors can create and upload content to the Blurb online bookstore for free, but must pay for any physical
+orders.
+Through the company’s “Set Your Price” program, creators have the option to mark up their products as much as they wish.
+Blurb pays the authors each month that their profits reach a certain level, retaining only a flat processing fee (USD$5) for each
+monthly payment.
+Like Lulu, Blurb allows users to upload content to the online catalog for free, but there is a cost for each product that is ordered.
+
 BookSurge & CreateSpace
 These two companies are currently merging as part of the Amazon group of companies.
-The company offers a publishing package starting at $299 for users who already have
-their files prepared as PDFs, but to start from scratch, the cost rises to $758. In addition,
-users can pay to access services such as copyediting, formatting, design, an ISBN
-assignment, and marketing.
+The company offers a publishing package starting at $299 for users who already have their files prepared as PDFs, but to start from scratch, the cost rises to $758.
+In addition, users can pay to access services such as copyediting, formatting, design, an ISBN assignment, and marketing.
+
 Authorhouse
-Authorhouse starts users off with inclusive packages depending on the type of product
-they want to create. Poetry book packages start at $399, while paperback, hardcover, and
-children’s books start at $599. All of the options include similar services - custom design
-and formatting, an ISBN assignment, and marketing.
-74
+Authorhouse starts users off with inclusive packages depending on the type of product they want to create.
+Poetry book packages start at $399, while paperback, hardcover, and children’s books start at $599.
+All of the options include similar services - custom design and formatting, an ISBN assignment, and marketing.
+
 Marketing Strategy
-Our potential market literally includes millions of people. Because the products and
-services offered by Digital Storymakers are closely tied to a specific geographic
-community, and because of certain strategic alliances with UNC-Chapel Hill, our initial
-members will come primarily from the state of North Carolina. It is important to note,
-however, that Storymakers is a highly franchisable business. We intend to replicate the
-original model in other places, each franchise developed according to the needs and
-resources available in that franchise's community.
+Our potential market literally includes millions of people.
+Because the products and services offered by Digital Storymakers are closely tied to a specific geographic community, and because of certain strategic alliances with UNC-Chapel Hill, our initial members will come primarily from the state of North Carolina.
+It is important to note, however, that Storymakers is a highly franchisable business.
+We intend to replicate the original model in other places, each franchise developed according to the needs and resources available in that franchise's community.
+
 Pricing
-It is difficult to compete in the social media world if your product isn’t free or have some
-free offering. Our SMS will be available at a “freemium” rate based on the amount of
-media stored in your digital library.
-$
-0
-$
-10
-$
-20
-0
-10
-20
-30
-40
-50
-60
-Basic
-Advanced
-Pro
-Pricing
-Chart
-GB
-Storage
-Cost
-per
-Month
-75
-Under the Digital Storymakers brand, users will be able to develop products based on
-their uploaded creative content. Currently, there are many different avenues for selfpublication;
-each company has its own strengths and weaknesses depending on the
-products they focus on. Some of the most popular choices include Lulu, Blurb,
-BookSurge (merging with CreateSpace under Amazon), and Authorhouse.
+It is difficult to compete in the social media world if your product isn’t free or have some free offering.
+Our SMS will be available at a “freemium” rate based on the amount of media stored in your digital library.
+
+// insert freemium chart graphic
+
+Under the Digital Storymakers brand, users will be able to develop products based on their uploaded creative content.
+Currently, there are many different avenues for selfpublication; each company has its own strengths and weaknesses depending on the
+products they focus on.
+Some of the most popular choices include Lulu, Blurb, BookSurge (merging with CreateSpace under Amazon), and Authorhouse.
+
 Promotion
-In order to advertise the unique services offered under our label, Digital Storymakers
-could choose from different options. One method would be a partnership with one of the
-previously mentioned companies. Lulu, in particular, offers a partners program that
-allows the original creator to retain 80% of the profits while dividing the remainder
-evenly between the partner and Lulu itself. In the startup stages, this type of relationship
-would simultaneously provide access to valuable services for the user and advertise the
-name and ideas of Digital Storymakers.
+In order to advertise the unique services offered under our label, Digital Storymakers could choose from different options.
+One method would be a partnership with one of the previously mentioned companies.
+Lulu, in particular, offers a partners program that allows the original creator to retain 80% of the profits while dividing the remainder evenly between the partner and Lulu itself.
+In the startup stages, this type of relationship would simultaneously provide access to valuable services for the user and advertise the name and ideas of Digital Storymakers.
+
 Operations
+
 Business Location
-At the heart of Digital Storymakers is the idea that online social media should be
-connected to offline social services. Our work will be carried out at the Digital
-Storymakers Community Center. Our office will be open to visitors and those interested
-in the stories of Orange County will be encouraged to use our space as a gathering and
-organizing space. Users will be free to drop by to get informal advice from others on
-76
-digital and social media needs, as well as consult with our professional staff. Having a
-welcoming, physical space in which to interact with our customers makes us unique
-among our competitors and emphasizes our trustworthiness. People are the key to success
-in social media - not the technology. We use technology to connect people, and our
-community center allows us to directly interact with and help satisfy the needs of our
-customers.
-Our Community Center will be located in downtown Chapel Hill, allowing our student
-employees to easily get to work. Since we are not a retail operation, we will not need
-very much parking space, but this location allows us to have a high-visibility location.
+At the heart of Digital Storymakers is the idea that online social media should be connected to offline social services.
+Our work will be carried out at the Digital Storymakers Community Center.
+Our office will be open to visitors and those interested in the stories of Orange County will be encouraged to use our space as a gathering and organizing space.
+Users will be free to drop by to get informal advice from others on digital and social media needs, as well as consult with our professional staff.
+Having a welcoming, physical space in which to interact with our customers makes us unique among our competitors and emphasizes our trustworthiness.
+People are the key to success in social media - not the technology.
+We use technology to connect people, and our community center allows us to directly interact with and help satisfy the needs of our customers.
+Our Community Center will be located in downtown Chapel Hill, allowing our student employees to easily get to work.
+Since we are not a retail operation, we will not need very much parking space, but this location allows us to have a high-visibility location.
 Operating Facilities and Equipment
-The Community Center will be equipped with all the technology necessary to manage a
-large website, including computers and high-speed business class Internet connections.
-However, most of our storage services will be leased through cloud vendors, minimizing
-the need for expensive capital expenditures on server hardware.
+The Community Center will be equipped with all the technology necessary to manage a large website, including computers and high-speed business class Internet connections.
+However, most of our storage services will be leased through cloud vendors, minimizing the need for expensive capital expenditures on server hardware.
 Production and Operating Procedures
-Our software development team will maintain a normal 40 hour/week Monday-Friday
-work schedule, but we will have customer service representatives manning the
-Community Center 7 days a week, 12 hours a day, from 9am to 9pm. Our Community
-Center will be open 7 days a week to accommodate the all the different work schedules
-that our customers are likely to have - we want to be accessible as possible to our
-customers.
-77
-A significant portion of our operation - the self-publishing center - will initially be
-outsourced through a publishing partnership with Lulu.com10. This will allow individual
-authors to retain 80% of the revenue from their sales. Digital Storymakers will keep 10%
-and Lulu.com receives 10%. This partnership will reduce the investment necessary to
-incorporate self-publishing into our model, but provide a revenue-sharing program for
-our customers. Our self-publishing market will be branded with the Digital Storymakers
-name. It will be accessible online, or customer service representatives can assist
+Our software development team will maintain a normal 40 hour/week Monday-Friday work schedule, but we will have customer service representatives manning the Community Center 7 days a week, 12 hours a day, from 9am to 9pm.
+Our Community Center will be open 7 days a week to accommodate the all the different work schedules that our customers are likely to have - we want to be accessible as possible to our customers.
+
+A significant portion of our operation - the self-publishing center - will initially be outsourced through a publishing partnership with Lulu.com.
+This will allow individual authors to retain 80% of the revenue from their sales.
+Digital Storymakers will keep 10% and Lulu.com receives 10%.
+This partnership will reduce the investment necessary to incorporate self-publishing into our model, but provide a revenue-sharing program for our customers.
+Our self-publishing market will be branded with the Digital Storymakers name.
+It will be accessible online, or customer service representatives can assist
 customers in the creation of products created from their own digital library.
+
 Management
+
 Organizational Structure
-Mike Nutt is the initial registered agent of both the for-profit entity Digital Storymakers,
-LLC, and its nonprofit counterpart Digital Storymakers Foundation. He is currently the
-sole member of the LLC and the President of the Foundation. The dual-entity nature of
-Digital Storymakers allows us to use the best features of each. Trust is a necessary
-component for users to share qualitatively rich information, and so the Foundation will be
-used for most of the operations that involve using members’ personal information. An
-LLC, on the other hand, is good for making money. The LLC will be used as the revenuegenerating
-arm of the business.
-78
+Mike Nutt is the initial registered agent of both the for-profit entity Digital Storymakers, LLC, and its nonprofit counterpart Digital Storymakers Foundation.
+He is currently the sole member of the LLC and the President of the Foundation.
+The dual-entity nature of Digital Storymakers allows us to use the best features of each.
+Trust is a necessary component for users to share qualitatively rich information, and so the Foundation will be used for most of the operations that involve using members’ personal information.
+An LLC, on the other hand, is good for making money.
+The LLC will be used as the revenuegenerating arm of the business.
+
 Management Summary
-Digital Storymakers is a limited liability company that is owned entirely by its employees
-and governed by a board of directors. Members and employees elect directors to
-staggered two-year terms. This structure is typically referred to as an employee-owned
-cooperative. Giving employees an ownership stake in the co-op empowers them and
-encourages low turnover. It also encourages efficiency and quality by giving employees a
-financial incentive to perform at high levels. A minimal staff will be employed until there
-is enough income to guarantee a larger payroll. This staff will include a Chief Executive
-Officer, a Chief Technology Officer, and a Chief Financial Officer. During the startup
-phase, all three of these officers will have to be comfortable in a startup/entrepreneurial
-environment, where selflessness and the ability to creatively solve problems are essential
-character traits. One of the primary advantages of the co-op business model is that it
-allows a company to employ volunteer labor; this is discussed in more detail below.
+Digital Storymakers is a limited liability company that is owned entirely by its employees and governed by a board of directors.
+Members and employees elect directors to staggered two-year terms.
+This structure is typically referred to as an employee-owned cooperative.
+Giving employees an ownership stake in the co-op empowers them and encourages low turnover.
+It also encourages efficiency and quality by giving employees a financial incentive to perform at high levels.
+A minimal staff will be employed until there is enough income to guarantee a larger payroll.
+This staff will include a Chief Executive Officer, a Chief Technology Officer, and a Chief Financial Officer.
+During the startup phase, all three of these officers will have to be comfortable in a startup/entrepreneurial environment, where selflessness and the ability to creatively solve problems are essential character traits.
+One of the primary advantages of the co-op business model is that it allows a company to employ volunteer labor; this is discussed in more detail below.
+
 Chief Executive Officer
-As the founder of Digital Storymakers, LLC, Mike Nutt will serve as the chief executive
-officer and general manager. As Storymakers currently exists in a nascent stage, it is
-expected that Nutt will take on all of the operational duties of Storymakers until such
-time as he is able to hire help. At that time, Nutt will still be heavily involved in many of
-the company’s internal operations, but will spend .5 FTE between developing the
-Storymakers community (through evangelism and sales) and member support services.
-Being visible and available to the community and potential members will help ensure that
-79
-Storymakers is associated with real people and not just seen as another faceless company
-on the web.
+As the founder of Digital Storymakers, LLC, Mike Nutt will serve as the chief executive officer and general manager.
+As Storymakers currently exists in a nascent stage, it is expected that Nutt will take on all of the operational duties of Storymakers until such time as he is able to hire help.
+At that time, Nutt will still be heavily involved in many of the company’s internal operations, but will spend .5 FTE between developing the Storymakers community (through evangelism and sales) and member support services.
+Being visible and available to the community and potential members will help ensure that Storymakers is associated with real people and not just seen as another faceless company on the web.
+
 Chief Technology Officer
-During the startup phase, our CTO will need to wear many hats. Three broad skill sets
-will be particularly valuable during Storymakers' early years:
-• The ability to manage rapidly scaling data infrastructure, including the ability to
-move systems from cloud vendors to in-house hardware (or vice versa) when
-necessary, and the ability to discern when it such movement is necessary.
-• Impeccable customer service and communication skills. To a large degree, our
-reputation will be built on our ability to make technology accessible and fun to
-use. The CTO needs to be able to ensure that this culture permeates every aspect
-of Storymakers' technology infrastructure.
-• Familiarity with facilitating open source software development and the
-willingness to spend many hours fixing bugs.
+During the startup phase, our CTO will need to wear many hats.
+Three broad skill sets will be particularly valuable during Storymakers' early years:
+• The ability to manage rapidly scaling data infrastructure, including the ability to move systems from cloud vendors to in-house hardware (or vice versa) when necessary, and the ability to discern when it such movement is necessary.
+• Impeccable customer service and communication skills.
+To a large degree, our reputation will be built on our ability to make technology accessible and fun to use.
+The CTO needs to be able to ensure that this culture permeates every aspect of Storymakers' technology infrastructure.
+• Familiarity with facilitating open source software development and the willingness to spend many hours fixing bugs.
+
 Chief Financial Officer
-During the startup phase the CFO will primarily be in charge of managing the accounts of
-vendors and members, ensuring financial best practices, and helping with administrative
-duties. As the company grows, this person will be instrumental in suggesting and
-implementing opportunities for financial growth.
-80
+During the startup phase the CFO will primarily be in charge of managing the accounts of vendors and members, ensuring financial best practices, and helping with administrative duties.
+As the company grows, this person will be instrumental in suggesting and implementing opportunities for financial growth.
+
 Volunteer labor
-A key competitive advantage for Digital Storymakers will be the ability to utilize
-volunteer labor. This will come in two primary forms: member volunteers and academic
-interns.
-Member volunteers: Members of the site will have the opportunity to volunteer at
-Storymakers. Volunteers will receive discounts on their SMS prices. While Storymakers
-will benefit from the extra labor, the continued education of volunteers will also be one of
-the primary ways we measure our social impact.
-Interns: Through partnerships with academic institutions, we will be able to leverage
-intern labor. We will solicit students from throughout the University, as Storymakers will
-benefit greatly from the infusion of interdisciplinary ideas. Interns will be particularly
-useful in the software development cycle.
+A key competitive advantage for Digital Storymakers will be the ability to utilize volunteer labor.
+This will come in two primary forms: member volunteers and academic interns.
+Member volunteers: Members of the site will have the opportunity to volunteer at Storymakers.
+Volunteers will receive discounts on their SMS prices.
+While Storymakers will benefit from the extra labor, the continued education of volunteers will also be one of the primary ways we measure our social impact.
+Interns: Through partnerships with academic institutions, we will be able to leverage intern labor.
+We will solicit students from throughout the University, as Storymakers will benefit greatly from the infusion of interdisciplinary ideas.
+Interns will be particularly useful in the software development cycle.
+
 Strategic Alliances/Partners
-From its inception, Storymakers was designed to function in a symbiotic relationship
-with an institution of higher learning. The business world and the academic world have
-complementary strengths and weaknesses. A partnership with Storymakers will allow
-UNC to increase its level of civic engagement, be a primary community economic
-development engine, and generate a high quantity of valuable research in the field of
-community informatics.
+From its inception, Storymakers was designed to function in a symbiotic relationship with an institution of higher learning.
+The business world and the academic world have complementary strengths and weaknesses.
+A partnership with Storymakers will allow UNC to increase its level of civic engagement, be a primary community economic development engine, and generate a high quantity of valuable research in the field of community informatics.
 Storymakers already has support from the following organizations:
 • DICE Center http://dice.unc.edu/
-81
-• Marian Cheek Jackson Center for Saving and Making History
-http://www.jacksoncenter.info/
+• Marian Cheek Jackson Center for Saving and Making History http://www.jacksoncenter.info/
 • Carolina Digital Story Lab http://uncstorylab.org
-Additionally, Storymakers expects to be an attractive source of internships and field
-placements for students in the following UNC-CH departments and schools:
+Additionally, Storymakers expects to be an attractive source of internships and field placements for students in the following UNC-CH departments and schools:
 • School of Information and Library Science
 • School of Social Work
 • Department of Communication Studies
 • Department of Computer Science
 • Kenan-Flagler Business School
 • School of Journalism
-Academics that work with Storymakers will have an opportunity to see their research
-labor bear fruit in an entrepreneurial setting. We will be able to provide to our partner
-universities exclusive access to selected data sets collected through the Storymakers site.
-We will serve as a story laboratory for them, and we will be able to provide jobs,
-internships, and field placements to students.
-82
+Academics that work with Storymakers will have an opportunity to see their research labor bear fruit in an entrepreneurial setting.
+We will be able to provide to our partner universities exclusive access to selected data sets collected through the Storymakers site.
+We will serve as a story laboratory for them, and we will be able to provide jobs, internships, and field placements to students.
+
+// entire financial section is a mess from the PDF transfer, but this was the weakest part anyway.
 Financials
 First Year Staffing Plan
 Name
-Position Administratio
-n
+Position Administration
 Software
 Development
 Hardware
@@ -508,8 +385,7 @@ Volunteers 0.1 3 0.25 0.35 0.2 0.5 0.25 0.35 5
 total
 FTEs 0.5 4.5 0.75 1 1 1.5 0.75 1 11
 Name
-Position Administratio
-n
+Position Administration
 Software
 Development
 Hardware
@@ -544,7 +420,6 @@ FTE
 2011
 Budget:
 Salaries
-83
 First Year Operating Budget
 Income
 Contributions 25000
@@ -569,87 +444,45 @@ Data storage11 13200
 Insurance 1000
 Interest 2000
 Postage and delivery 250
-84
 Printing and copying 1000
 Rent 12000
 Supplies 2000
 Travel 2000
 Utilities 4000
 Non-personnel expenses $37,450
+
 Startup Funding Sources
-Because our brand depends on the trust of our customers through the operation of a
-nonprofit entity, certain traditional funding opportunities will likely not be available to us
-while other sources common to the nonprofit sector may be accessible. We are confident
-that our organization will be attractive to various grantors looking to incubate innovative
-approaches to technology-based community development.
-However, long term reliance on such funds is not sustainable. This is another reason why
-it is crucial to reach profitability as quickly as possible from our own revenue-generating
-activities. It is expected that some startup costs will be provided through business loans.
-We are currently engaged in competitions to raise our first round of money through two
-sources:
+Because our brand depends on the trust of our customers through the operation of a nonprofit entity, certain traditional funding opportunities will likely not be available to us while other sources common to the nonprofit sector may be accessible.
+We are confident that our organization will be attractive to various grantors looking to incubate innovative approaches to technology-based community development.
+However, long term reliance on such funds is not sustainable.
+This is another reason why it is crucial to reach profitability as quickly as possible from our own revenue-generating activities.
+It is expected that some startup costs will be provided through business loans.
+We are currently engaged in competitions to raise our first round of money through two sources:
 • $15,000: Carolina Challenge business plan competition
 http://www.carolinachallenge.org/
 • $200,000: MacArthur Digital Media and Learning competition
 http://www.dmlcompetition.net/
-85
 10 http://www.lulu.com/partners/
 11 http://calculator.s3.amazonaws.com/calc5.html
-86
+
 Business Plan Sources
-boyd, danah, & Ellison, N. (2007). Social Network Sites: Definition, History, and
-Scholarship. Journal of Computer Mediated Communication, 13(1), 210-230.
-Cunningham, W., & Leuf, B. (2002, June 27). Wiki: What Is Wiki. Wiki. Retrieved
-March 27, 2011, from http://www.wiki.org/wiki.cgi?WhatIsWiki
-Facebook. (2011, March 17). Statistics. Facebook. Retrieved March 18, 2011, from
-https://www.facebook.com/press/info.php?statistics
-Friedmann, J. (1992). Empowerment: The Politics of Alternative Development.
-Cambridge MA: Blackwell.
-Gurstein, M. (2008). What is Community Informatics (and Why Does It Matter)? Milan,
-Italy: Polimetrica. Retrieved from
-http://www.polimetrica.com/?p=productsMore&iProduct=60&sName=what-iscommunity-
-informatics-(and-why-does-it-matter)-(michael-gurstein)
-Lambert, J. (2002). Digital storytelling : capturing lives, creating community (1st ed.).
-Berkeley, CA: Digital Diner Press,.
-Lenhart, A. (2009, October 8). The Democratization of Online Social Networks.
-Conference presentation presented at the AoIR 10.0, Milwaukee, WI. Retrieved
-from http://www.pewinternet.org/Presentations/2009/41--The-Democratizationof-
-Online-Social-Networks.aspx
-Moore, R. (2011, February 11). INLS 490-161: Life Time Library. Lecture presented at
-the Class 5, University of North Carolina at Chapel Hill.
-87
-Moore, T. D., & Serva, M. A. (2007). Understanding member motivation for contributing
-to different types of virtual communities: a proposed framework. Proceedings of
-the 2007 ACM SIGMIS CPR conference on Computer personnel research: The
-global information technology workforce (pp. 153-158). St. Louis, Missouri,
-USA: ACM. Retrieved from
-http://portal.acm.org.libproxy.lib.unc.edu/citation.cfm?doid=1235000.1235035
-Munson, S. A. (2008). Motivating and enabling organizational memory with a workgroup
-wiki. Proceedings of the 4th International Symposium on Wikis (p. 1–5).
-Nutt, M., & Schwartz, G. (2008). The Story Economy: DIgital Storytelling in Economic
-and Community Development. ICTs for Soical Inclusion: What is the Reality?
-Presented at the Prato CIRN 2008 Community Informatics Conference, Prato,
-Italy: Centre for Community Networking Research. Retrieved from
-http://www.ccnr.net/pratoconf2008/NuttFinal.pdf
-Perez, J. C. (2009, December 9). MySpace Opens Activity Stream to External Developers
-- PC World Business Center. pcworld.com. Retrieved December 9, 2009, from
-http://www.pcworld.com/businesscenter/article/184074/myspace_opens_activity_
-stream_to_external_developers.html
-Rogers, A. (2010, April). The Changing Librarian Skill Set: A Delphi Study of “Movers
-& Shakers.” University of North Carolina, Chapel Hill.
+boyd, danah, & Ellison, N. (2007). Social Network Sites: Definition, History, and Scholarship. Journal of Computer Mediated Communication, 13(1), 210-230.
+Cunningham, W., & Leuf, B. (2002, June 27). Wiki: What Is Wiki. Wiki. Retrieved March 27, 2011, from http://www.wiki.org/wiki.cgi?WhatIsWiki
+Facebook. (2011, March 17). Statistics. Facebook. Retrieved March 18, 2011, from https://www.facebook.com/press/info.php?statistics
+Friedmann, J. (1992). Empowerment: The Politics of Alternative Development. Cambridge MA: Blackwell.
+Gurstein, M. (2008). What is Community Informatics (and Why Does It Matter)? Milan, Italy: Polimetrica. Retrieved from http://www.polimetrica.com/?p=productsMore&iProduct=60&sName=what-iscommunity-informatics-(and-why-does-it-matter)-(michael-gurstein)
+Lambert, J. (2002). Digital storytelling : capturing lives, creating community (1st ed.). Berkeley, CA: Digital Diner Press.
+Lenhart, A. (2009, October 8). The Democratization of Online Social Networks. Conference presentation presented at the AoIR 10.0, Milwaukee, WI. Retrieved from http://www.pewinternet.org/Presentations/2009/41--The-Democratizationof-Online-Social-Networks.aspx
+Moore, R. (2011, February 11). INLS 490-161: Life Time Library. Lecture presented at Class 5, University of North Carolina at Chapel Hill.
+Moore, T. D., & Serva, M. A. (2007). Understanding member motivation for contributing to different types of virtual communities: a proposed framework. Proceedings of the 2007 ACM SIGMIS CPR conference on Computer personnel research: The global information technology workforce (pp. 153-158). St. Louis, Missouri, USA: ACM. Retrieved from http://portal.acm.org.libproxy.lib.unc.edu/citation.cfm?doid=1235000.1235035
+Munson, S. A. (2008). Motivating and enabling organizational memory with a workgroup wiki. Proceedings of the 4th International Symposium on Wikis (p. 1–5).
+Nutt, M., & Schwartz, G. (2008). The Story Economy: DIgital Storytelling in Economic and Community Development. ICTs for Soical Inclusion: What is the Reality? Presented at the Prato CIRN 2008 Community Informatics Conference, Prato,
+Italy: Centre for Community Networking Research. Retrieved from http://www.ccnr.net/pratoconf2008/NuttFinal.pdf
+Perez, J. C. (2009, December 9). MySpace Opens Activity Stream to External Developers - PC World Business Center. pcworld.com. Retrieved December 9, 2009, from http://www.pcworld.com/businesscenter/article/184074/myspace_opens_activity_stream_to_external_developers.html
+Rogers, A. (2010, April). The Changing Librarian Skill Set: A Delphi Study of “Movers & Shakers.” University of North Carolina, Chapel Hill.
 Rogers, E. (2003). Diffusion of innovations (5th ed.). New York: Free Press.
-Schonfeld, E. (2009, April 7). Who Has The Most Photos Of Them All? Hint: It Is Not
-Facebook. TechCrunch. Retrieved November 20, 2010, from
-88
-http://techcrunch.com/2009/04/07/who-has-the-most-photos-of-them-all-hint-itis-
-not-facebook/
-Stvilia, B., Twidale, M. B., Smith, L. C., & Gasser, L. (2008). Information quality work
-organization in wikipedia. Journal of the American Society for Information
-Science and Technology, 59(6), 983-1001. doi:10.1002/asi.20813
-Thorp, H., & Goldstein, B. (2010). Engines of Innovation: The Entrepreneurial
-University in the Twenty-First Century. The University of North Carolina Press.
-Weil, K. (2010, February 22). Twitter Blog: Measuring Tweets. Twitter. Retrieved March
-18, 2011, from http://blog.twitter.com/2010/02/measuring-tweets.html
-White, K. F., Gurzick, D., & Lutters, W. G. (2009). Wiki anxiety: impediments to
-implementing wikis for IT support groups. Proceedings of the Symposium on
-Computer Human Interaction for the Management of Information Technology (p.
-10).
+Schonfeld, E. (2009, April 7). Who Has The Most Photos Of Them All? Hint: It Is Not Facebook. TechCrunch. Retrieved November 20, 2010, from http://techcrunch.com/2009/04/07/who-has-the-most-photos-of-them-all-hint-itis-not-facebook/
+Stvilia, B., Twidale, M. B., Smith, L. C., & Gasser, L. (2008). Information quality work organization in wikipedia. Journal of the American Society for Information Science and Technology, 59(6), 983-1001. doi:10.1002/asi.20813
+Thorp, H., & Goldstein, B. (2010). Engines of Innovation: The Entrepreneurial University in the Twenty-First Century. The University of North Carolina Press.
+Weil, K. (2010, February 22). Twitter Blog: Measuring Tweets. Twitter. Retrieved March 18, 2011, from http://blog.twitter.com/2010/02/measuring-tweets.html
+White, K. F., Gurzick, D., & Lutters, W. G. (2009). Wiki anxiety: impediments to implementing wikis for IT support groups. Proceedings of the Symposium on Computer Human Interaction for the Management of Information Technology (p. 10).
